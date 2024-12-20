@@ -121,7 +121,7 @@ Visit the live demo: [AI Video Script Generator](https://effulgent-fenglisu-e214
 
 ## Contact
 
-Your Name - [@yourusername](https://www.linkedin.com/in/ganesh-gangishetty/)
+ Name - [@Ganesh](https://www.linkedin.com/in/ganesh-gangishetty/)
 
-Project Link: [https://github.com/yourusername/video-script-generator](https://github.com/Clipwise.ai/project)
+Project Link: [https://github.com/ganeshgangishetty/video-script-generator](https://github.com/Clipwise.ai/project)
 
